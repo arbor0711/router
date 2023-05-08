@@ -6,7 +6,7 @@ function App(){
   return(
     <>
     <nav className="nav">
-      <a href="#">Home</a>
+      <a href="/">Home</a>
       <a href="#">About me</a>
     </nav>
     <Homepage />
