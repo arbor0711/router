@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.nav {
+  padding: 1rem 3rem;
+  background-color: antiquewhite;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+  border-right: 1px solid gray;
+  padding: 0 10px;
+}
